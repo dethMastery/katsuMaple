@@ -1,0 +1,32 @@
+# Header
+nav:
+  Posts: /archives
+  Categories: /category
+  Tags: /tag
+  Repo: /repo
+
+# FavIcon
+favicon: https://i.imgur.com/wOb7Z4y.png
+
+# Logo
+logo: https://i.imgur.com/wOb7Z4y.png
+
+# links
+links:
+  Github: https://github.com/dethMastery
+  Twitter: https://twitter.com/georgeKdeterk
+
+# fancybox
+fancybox: true
+
+# mathjax
+mathjax: true
+
+# echarts
+echarts: true
+
+# mermaid
+mermaid:
+  enable: true
+  # Available themes: default | dark | forest | neutral
+  theme: dark
