@@ -37,6 +37,7 @@ git pull
 ## wanna update config?
 just try to update config in `themes/katsuMaple/_config.yml`
 <br />
+<br />
 
 <center>
   made with 🤍 by <a href="https://suphakit.net">Suphakit P.</a>
